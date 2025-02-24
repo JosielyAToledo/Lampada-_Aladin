@@ -1,4 +1,4 @@
-```js
+
 const turnOn = document.getElementById ( 'turnOn' );
 const turnOff = document.getElementById ( 'turnOff' );
 const lamp = document.getElementById ( 'lamp' );
@@ -29,4 +29,4 @@ turnOff.addEventListener ( 'click' , lampOff );
 lamp.addEventListener ( 'mouseover', lampOn );
 lamp.addEventListener ( 'mouseleave', lampOff );
 lamp.addEventListener ( 'dblclick', lampBroken );
-```
+
